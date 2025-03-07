@@ -9,8 +9,12 @@ function App() {
   return (
     <>
      <div>
-      <h1>Nahffudt</h1>
-     </div>
+      <header className="App-header">
+        <h1>My Name: John Doe</h1>
+        <p>Email: johndoe@example.com</p>
+        <p>Phone: 123-456-7890</p>
+      </header>
+    </div>
     </>
   )
 }
